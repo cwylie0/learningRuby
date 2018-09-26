@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
 
-puts "Hello world!"
+puts "LOS ANGELES POLICE DEPARTMENT"
